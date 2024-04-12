@@ -1,4 +1,4 @@
 # uzma-demo
 This is my first practice git repository
 <br>
-Author-Noor Uzma Sultana
+Author-Noor Uzma Sultana wife of somayi salmaan
